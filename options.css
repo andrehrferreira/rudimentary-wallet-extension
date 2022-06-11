@@ -1,0 +1,10 @@
+.wallet-word {
+    border: 1px solid #CCC;
+    background-color: #EFEFEF;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
